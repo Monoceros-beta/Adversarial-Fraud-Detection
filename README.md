@@ -1,5 +1,5 @@
 # Adversarial-Fraud-Detection
-Quantifying Model Vulnerability to Data Poisoning in Financial Fraud Detection: Threshold Collapse and Feature Sensitivity<img width="468" height="42" alt="image" src="https://github.com/user-attachments/assets/fd6d0a88-d825-4bb0-aa51-156b5ce08435" />
+Quantifying Model Vulnerability to Data Poisoning in Financial Fraud Detection: Threshold Collapse and Feature Sensitivity
 
 **Current Status:** This repository is under active development. The README and code structure are being iteratively refined to include full experimental details.
 
